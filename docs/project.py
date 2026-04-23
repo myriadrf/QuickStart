@@ -1,7 +1,7 @@
 # Copyright date and release version should be updated accordingly!
 
 project = 'SDR Quick Start'
-copyright = '2025 Lime Microsystems'
+copyright = '2026 Lime Microsystems'
 author = 'Lime Microsystems'
 release = 'latest'
 
@@ -30,4 +30,4 @@ intersphinx_external = [
 archived = False
 
 # When True internal intersphinx targets point at stage.myriadrf.org.
-staging = True
+staging = False
