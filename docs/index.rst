@@ -112,3 +112,6 @@ Developers of new applications should always use Lime Suite NG where possible. T
 Links
 *****
 
+* :external+suiteng:ref:`Lime Suite NG <index:introduction>`
+* :external+suite:ref:`Lime Suite <index:introduction>`
+
